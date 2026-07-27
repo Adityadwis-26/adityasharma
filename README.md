@@ -11,7 +11,7 @@ Data Science Student | Python Developer | AI Enthusiast
 - 🎓 Data Science Student
 - 💻 Learning Python, AI, Machine Learning
 - 🌱 Currently building Pharmacy Management System
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: adityasharma26dwis@gamil.com
 
 ---
 
