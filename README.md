@@ -18,9 +18,7 @@ Data Science Student | Python Developer | AI Enthusiast
 ## 🛠 Tech Stack
 
 - Python
-- C
 - HTML
-- CSS
 - JavaScript
 - MySQL
 - Git
