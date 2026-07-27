@@ -97,3 +97,17 @@ Data Science Student | Python Developer | AI Enthusiast
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adityadwis-26/adityasharma/output/github-snake-dark.svg" alt="snake"/>
 </p>
+<p align="center">
+<img src="banner.png" width="100%">
+</p>
+
+## 💭 Developer Quote
+
+> "Code. Learn. Build. Repeat."
+
+## 🚀 Featured Projects
+
+- 💊 Pharmacy Management System
+- 🤖 AI Automation Workflows
+- 📊 Data Analytics Projects
+- 🌐 Web Development Projects
