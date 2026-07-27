@@ -91,3 +91,9 @@ Data Science Student | Python Developer | AI Enthusiast
 <img src="https://github-profile-trophy.vercel.app/?username=Adityadwis-26&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adityadwis-26/adityasharma/output/github-snake-dark.svg" alt="snake"/>
+</p>
